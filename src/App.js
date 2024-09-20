@@ -15,6 +15,7 @@ function App() {
     <div className="App">
        <Header />
       <div style={{padding: '132px'}}>
+        <h1>Checking first commit</h1>
        <Container handleSearch = {handleSearch} />
       </div>
     </div>
